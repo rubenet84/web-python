@@ -83,10 +83,10 @@ Aquí tienes [un artículo](https://reflex.dev/blog/2024-02-16-reflex-v0.4.0) co
 
 ## Proyecto
 
-<a href="https://moure.dev"><img src="./Images/web.png" style="height: 50%; width:50%;"/></a>
+<a href="https://mouredev-web.vercel.app"><img src="./Images/web.png" style="height: 50%; width:50%;"/></a>
 <a href="./link_bio"><img src="./Images/web.gif" style="height: 50%; width:50%;"/></a>
 
-Durante el curso aprenderemos desarrollo web con Python puro utilizando el framework [Reflex](https://github.com/reflex-dev/reflex). Realizaremos un proyecto práctico que consistirá en desarrollar y publicar mi nueva web de links [moure.dev](https://moure.dev/) (añadiéndole nuevas funcionalidades).
+Durante el curso aprenderemos desarrollo web con Python puro utilizando el framework [Reflex](https://github.com/reflex-dev/reflex). Realizaremos un proyecto práctico que consistirá en desarrollar y publicar mi nueva web de links [moure.dev](https://mouredev-web.vercel.app/) (añadiéndole nuevas funcionalidades).
 Todo el código está disponible para que cualquiera pueda usarlo.
 
 ### 💻 [Accede al código del proyecto](./link_bio)
@@ -167,10 +167,10 @@ Si quieres aprender desde cero, tienes gratis todos los tutoriales que he creado
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrollando Apps con la creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
+Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrollando Apps con la creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://mouredev-web.vercel.app)**.
 
 Si quieres unirte a nuestra comunidad de desarrollo, aprender programación, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarnos en:
 
 [![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord) [![Pro](https://img.shields.io/badge/Cursos-mouredev.pro-FF5500?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://moure.dev)
-[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-14a1f0?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev) [![Web](https://img.shields.io/badge/GitHub-MoureDev-087ec4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
+[![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord) [![Pro](https://img.shields.io/badge/Cursos-mouredev.pro-FF5500?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://mouredev-web.vercel.app)
+[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-14a1f0?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev-web.vercel.app) [![Web](https://img.shields.io/badge/GitHub-MoureDev-087ec4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)

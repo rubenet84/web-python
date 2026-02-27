@@ -10,7 +10,7 @@ def lang() -> rx.Component:
     return rx.script("document.documentElement.lang='es'")
 
 
-preview = "https://moure.dev/preview.jpg"
+preview = "https://mouredev-web.vercel.app/preview.jpg"
 
 _meta = [
     {"name": "og:type", "content": "website"},
