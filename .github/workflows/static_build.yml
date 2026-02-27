@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    if: github.repository == 'mouredev/python-web'
+    if: github.repository == 'rubenet84/web-python'
     runs-on: ubuntu-latest
 
     permissions:
@@ -31,6 +31,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update static build
-          commit_user_name: Brais Moure [GitHub Actions]
-          commit_user_email: mouredev@gmail.com
-          commit_author: Brais Moure <mouredev@gmail.com>
+          commit_user_name: Ruben Rebollo [GitHub Actions]
+          commit_user_email: rubenet1984@gmail.com
+          commit_author: Ruben Rebollo <rubenet1984@gmail.com>
